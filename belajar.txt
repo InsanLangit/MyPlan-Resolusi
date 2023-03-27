@@ -1,9 +1,10 @@
 Coding yang ingin saya pelajari:
 -Javascript
   *FrameworkJS
-   ^Angular
+   ^Vue
    ^React
--PHP
+-Struktur Data Dasar
+-PHP Framework
  *Laravel
 -C#
 -C++
