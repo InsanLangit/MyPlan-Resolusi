@@ -2,6 +2,7 @@ Coding yang ingin saya pelajari:
 -Javascript
   *FrameworkJS
    ^Angular
+   ^React
 -PHP
  *Laravel
 -C#
